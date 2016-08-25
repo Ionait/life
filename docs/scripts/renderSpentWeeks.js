@@ -1,5 +1,5 @@
 const yearsContainer = document.getElementById('years')
-const yearsInALife = 90
+const yearsInALife = 72
 const weeksPerYear = 52
 const milestones = [
   {
