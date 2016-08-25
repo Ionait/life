@@ -51,9 +51,6 @@ var yearsContainer = document.getElementById("years"),
     }, {
         title: "Retirement",
         from: 65
-    }, {
-        title: "hauhau",
-        from: 52
     }],
     birthdayInput = document.getElementById("birthday");
 birthdayInput.addEventListener("input", function() {
